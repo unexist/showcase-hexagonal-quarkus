@@ -1,0 +1,3 @@
+= Showcase for Hexagonal Architecture based on quarkus
+
+This project holds a showcase for Hexagonal Architecture.
